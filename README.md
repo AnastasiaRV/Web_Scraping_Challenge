@@ -1,7 +1,6 @@
 # Web_Scraping_Challenge - Mission to Mars
 
 ## Results
-![ScreenShot-0-Full.png](Mission_to_Mars/ScreenShot-0-Full.png)
 ![ScreenShot-1-Top.png](Mission_to_Mars/ScreenShot-1-Top.png)
 ![ScreenShot-2-Bottom.png](Mission_to_Mars/ScreenShot-2-Bottom.png)
 
@@ -88,6 +87,9 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 * Create a root route `/` that will query your Mongo database and pass the mars data into an HTML template to display the data.
 
 * Create a template HTML file called `index.html` that will take the mars data dictionary and display all of the data in the appropriate HTML elements. Use the following as a guide for what the final product should look like, but feel free to create your own design.
+
+![ScreenShot-0-Full.png](Mission_to_Mars/ScreenShot-0-Full.png)
+
 
 - - -
 
