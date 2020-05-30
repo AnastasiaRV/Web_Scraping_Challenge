@@ -1,7 +1,5 @@
 # Web_Scraping_Challenge - Mission to Mars
 
-## Find Results [here](https://anastasiarv.github.io/Web_Scraping_Challenge/)
-
 ## Results
 ![ScreenShot-1-Top.png](Mission_to_Mars/ScreenShot-1-Top.png)
 ![ScreenShot-2-Bottom.png](Mission_to_Mars/ScreenShot-2-Bottom.png)
