@@ -1,5 +1,11 @@
 # Web_Scraping_Challenge - Mission to Mars
 
+## Results
+![ScreenShot-0-Full.png](Mission_to_Mars/ScreenShot-0-Full.png)
+![ScreenShot-1-Top.png](Mission_to_Mars/ScreenShot-1-Top.png)
+![ScreenShot-2-Bottom.png](Mission_to_Mars/ScreenShot-2-Bottom.png)
+
+
 ## Task 1 - Scraping
 
 Perfomed nitial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
@@ -85,9 +91,4 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 - - -
 
-## Output Screen Shots
-
-![ScreenShot-0-Full.png](Missions_to_Mars/ScreenShot-0-Full.png)
-![ScreenShot-1-Top.png](Missions_to_Mars/ScreenShot-1-Top.png)
-![ScreenShot-2-Bottom.png](Missions_to_Mars/ScreenShot-2-Bottom.png)
 
