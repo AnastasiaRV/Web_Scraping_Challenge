@@ -24,6 +24,7 @@ news_p = "Preparation of NASA's next spacecraft to Mars, InSight, has ramped up 
 ### JPL Mars Space Images - Featured Image
 
 * Visit the url for JPL Featured Space Image [here](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars).
+
 * Use splinter to navigate the site and find the image url for the current Featured Mars Image and assign the url string to a variable called `featured_image_url`.
 
 * Make sure to find the image url to the full size `.jpg` image.
@@ -80,7 +81,7 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 * Next, create a route called `/scrape` that will import your `scrape_mars.py` script and call your `scrape` function.
 
-  * Store the return value in Mongo as a Python dictionary.
+* Store the return value in Mongo as a Python dictionary.
 
 * Create a root route `/` that will query your Mongo database and pass the mars data into an HTML template to display the data.
 
