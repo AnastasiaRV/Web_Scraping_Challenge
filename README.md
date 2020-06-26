@@ -4,7 +4,6 @@
 ![ScreenShot-1-Top.png](Mission_to_Mars/ScreenShot-1-Top.png)
 ![ScreenShot-2-Bottom.png](Mission_to_Mars/ScreenShot-2-Bottom.png)
 
-
 ## Task 1 - Scraping
 
 Perfomed nitial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
