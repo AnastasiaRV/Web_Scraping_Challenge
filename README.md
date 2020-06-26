@@ -89,7 +89,5 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 ![ScreenShot-0-Full.png](Mission_to_Mars/mission_to_mars.png)
 
-
 - - -
-
 
