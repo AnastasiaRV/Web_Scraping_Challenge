@@ -1,4 +1,4 @@
-# Web Scraping Challenge - Mission to Mars
+# Web Scraping Challenge - Mission to Mars 
 
 ## Results
 ![ScreenShot-1-Top.png](Mission_to_Mars/ScreenShot-1-Top.png)
